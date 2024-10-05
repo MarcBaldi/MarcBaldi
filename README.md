@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MarcBaldi
-- 👀 I’m interested in modern Frameworks
-- 🌱 I’m currently learning authenticating with Keycloak
-- 📫 How to reach me ...
+- 👋 Hi, I’m Marc
+- 👀 I’m interested in everything Vue related
+- 🌱 I’m currently learning nuxt
+- 📫 How to reach me: Add me on discord: marcimio
 
 <!---
 MarcBaldi/MarcBaldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
